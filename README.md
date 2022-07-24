@@ -1,4 +1,4 @@
-# Bongomin Daniel's portofolio
+# Bongomin Daniel's portfolio
 - - Builded with VueJs framework ✨
 
 ## Features
