@@ -1,7 +1,7 @@
 let info = {
   name: "Bongomin Daniel",
   logo_name: "Daniel",
-  flat_picture: require("./src/assets/profile-image.png"),
+  flat_picture: require("./src/assets/profile1.jpeg"),
   config: {
     use_cookies: true,
     navbar: {
