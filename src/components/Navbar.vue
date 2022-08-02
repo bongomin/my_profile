@@ -76,8 +76,8 @@
                 :class="{ 'text-light': nightMode }"
                 ><i
                   :class="{
-                    'fas fa-moon': nightMode,
-                    'far fa-moon': !nightMode,
+                    'fas fa-sun': nightMode,
+                    'far fa-sun': !nightMode,
                   }"
                   v-tooltip.bottom="nightMode ? 'Light Mode' : 'Night Mode'"
                 ></i

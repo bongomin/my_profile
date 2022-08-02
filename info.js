@@ -50,7 +50,7 @@ let info = {
     {
       name: "Kajjansi Progressive Secondary School",
       place: "Kampala, Uganda",
-      date: "February 2012 – November 2013",
+      date: "February 2008 – November 2011",
       Certification: "Uganda Certificate of Education (UCE)",
       description:
         "",

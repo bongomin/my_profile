@@ -11,50 +11,31 @@
     >
       <div class="row align-items-center">
         <div class="col-xl-6 col-bg-6 col-md-6 col-sm-12 text-center">
-          <img style="width:450px" :src="picture" />
+          <img style="width: 450px" :src="picture" />
         </div>
         <div class="col-xl-6 col-bg-6 col-md-6 col-sm-12 pt-5">
           <span
             class="home-title"
             :class="{ pgray: !nightMode, 'text-light': nightMode }"
-            >
-            Hi, I am Bongomin Daniel !
-            </span
           >
+            Hi, I am Bongomin Daniel !
+          </span>
           <div>
-            <hr/>
+            <hr />
             <p></p>
             <p v-html="description"></p>
           </div>
           <div class="text-center pb-4">
-            <button
-              class="btn btn-outline-secondary mx-2 "
-              @click="open('linkedin')"
-              v-tooltip.bottom="'LinkedIn'"
-            >
+            <div class="buttons">
+              <a class="twitter" @click="open('github')"
+              v-tooltip.bottom="'GitHub'">
               <i class="fab fa-linkedin"></i>
-            </button>
-            <button
-              class="btn btn-outline-secondary mx-2"
-              @click="open('github')"
-              v-tooltip.bottom="'GitHub'"
-            >
-              <i class="fab fa-github"></i>
-            </button>
-            <button
-              class="btn btn-outline-secondary mx-2"
-              @click="open('behance')"
-              v-tooltip.bottom="'behance'"
-            >
-              <i class="fab fa-behance"></i>
-            </button>
-            <button
-              class="btn btn-outline-secondary mx-2"
-              @click="open('resume')"
-              v-tooltip.bottom="'Resume'"
-            >
-              <i class="fa fa-file"></i>
-            </button>
+              </a>
+              <a class="github" @click="open('github')"
+              v-tooltip.bottom="'Github'"><i class="fab fa-github"></i></a>
+              <a class="resume" @click="open('resume')"
+              v-tooltip.bottom="'Resume'"><i class="fa fa-file"></i></a>
+            </div>
           </div>
         </div>
       </div>
@@ -85,7 +66,7 @@ export default {
       linkedin: info.links.linkedin,
       github: info.links.github,
       behance: info.links.behance,
-      resume: info.links.resume
+      resume: info.links.resume,
     };
   },
   methods: {
@@ -139,19 +120,19 @@ img {
 }
 
 .btn {
-  border-color: #759CC9;
-  color: #759CC9;
+  border-color: #759cc9;
+  color: #759cc9;
 }
 
 .btn:hover {
-  background-color: #759CC9;
-  border-color: #759CC9;
+  background-color: #759cc9;
+  border-color: #759cc9;
   color: white;
 }
 
 .btn:focus {
-  background-color: #759CC9;
-  border-color: #759CC9;
+  background-color: #759cc9;
+  border-color: #759cc9;
   color: white;
 }
 
@@ -164,5 +145,55 @@ p {
   font-weight: 400;
 }
 
+.buttons {
+  margin-top: 40px;
+}
+.buttons a {
+  margin-right: 30px;
+  width: 64px;
+  height: 64px;
+  font-size: 24px;
+  display: inline-block;
+  position: relative;
+  line-height: 64px;
+  background-color: #eaeaea;
+  background-image: linear-gradient(to bottom, #f6f6f6, #eaeaea);
+  border-radius: 32px;
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.25), 0 2px 3px rgba(0, 0, 0, 0.1);
+}
+.buttons a:active {
+  top: 1px;
+  background-image: linear-gradient(to bottom, #eaeaea, #f6f6f6);
+}
+.buttons a:active::before {
+  top: -9px;
+}
+.buttons a::before {
+  content: "";
+  position: absolute;
+  z-index: -1;
+  top: -8px;
+  right: -8px;
+  bottom: -8px;
+  left: -8px;
+  background-color: #eaeaea;
+  border-radius: 140px;
+  opacity: 0.5;
+}
+:hover .buttons a::before {
+  opacity: 1;
+}
+
+.twitter:hover::before {
+  background-color: #c6f0f8;
+}
+
+.github:hover::before {
+  background-color: #dae1f0;
+}
+
+.resume:hover::before {
+  background-color: #fadae6;
+}
 /* LEAVES */
 </style>
