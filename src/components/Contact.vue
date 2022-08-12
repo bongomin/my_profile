@@ -146,7 +146,6 @@ export default {
       }
     },
     sendEmail() {
-      console.log('teststss---->>>>',config)
       if (!this.email || !this.name || !this.text) {
         this.showSnackbar = true;
         this.snackbarMessage = "Please all the fields";
@@ -158,9 +157,7 @@ export default {
           message_html: this.text,
           to_name: "Bongomin Daniel",
         };
-
-        emailjs
-          .send(
+        emailjs.send(
             config.emailjs.serviceID,
             config.emailjs.templateID,
             obj,
