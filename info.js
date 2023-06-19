@@ -9,7 +9,7 @@ let info = {
     }
   },
   description:
-    "I am a full-stack Software Engneer. I can provide clean code and pixel perfect design. I do not shy away from challenges in my field of work and as a result I have learned a lot and amassed numerous skills and problem solving techniques over the years. I am always looking to improve my craft and keep up with the fast evolving nature of the IT industry.",
+  "Full-stack Software Engineer experienced in client and server-side development. Providing clean code and a keen eye for detail in design. Specializing in JavaScript (Vue.js, React.js), Python Django, Nest.js, Node.js, and cross-platform mobile development using Quasar. Proficient in creating seamless user experiences with Vue.js, React.js, and Quasar, while ensuring clean and optimized server solutions with Python Django, Nest.js, and Node.js. Strong background in database management, RESTful APIs, and scalable server architectures. Constantly learning and adapting to the evolving IT industry. Let's collaborate to create cutting-edge solutions tailored to your needs.",
   links: {
     linkedin: "https://www.linkedin.com/in/daniel-bongomin/",
     github: "https://github.com/bongomin",
