@@ -452,6 +452,25 @@ let info = {
       description:
       "Applybpo is an app that manages employees employment information like payrols, leaves ,displinary actions etc."
     },
+    {
+      name: "Portfolio",
+      pictures: [
+        {
+          img: require("./src/assets/portfolio/Portfolio/portf1.png"),
+        },
+        {
+          img: require("./src/assets/portfolio/Portfolio/portf2.png")
+        },
+      ],
+      technologies: ["Vue Js 3", "CSS"],
+      category: "Web Site",
+      date: "Jan, 2020 - Always updating",
+      github:
+        "https://github.com/bongomin/my_profile",
+      visit: "https://my-profile-murex-five.vercel.app/",
+      description:
+      "I developed my Portfolio using Vue Js 3  and used EmailJS as a service that allows sending emails directly from a client-side JavaScript code to implement the contact form."
+    },
   ],
 };
 
