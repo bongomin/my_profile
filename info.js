@@ -67,7 +67,7 @@ let info = {
       date: "May 2021 - present",
       position: "Full Stack Software Engineer | Dev Lead",
       description:
-        "",
+        "As the Full Stack Software Engineer | Dev Lead, I am responsible for overseeing the collaboration and tasks performed by team members. I ensure timely delivery of projects by coordinating with lead managers and providing guidance to the development team. I provide technical expertise in Vue.js for the client-side and Python Django for the server-side",
       skills: ["JavaSript","VueJS","Python","Django",]
     },
     {
@@ -76,7 +76,7 @@ let info = {
       date: "Feb 2020 - present",
       position: "Freelance Web Developer",
       description:
-        "",
+        "Experienced Freelance Web Developer skilled in JavaScript, ReactJS, Vue.js, Python, Django, and AWS. Strong problem-solving abilities and a track record of delivering high-quality projects on time",
       skills: ["Javascript", "Typescript", "ReactJS", "React-Redux", "webpack", "NLP",'Vue Js','Python','Django', 'NodeJS','AWS','expressJs']
     },
     {
