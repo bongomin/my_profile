@@ -352,6 +352,31 @@ let info = {
       " Social Media called DannyDev App with features: Live Chat, upload images, tags, filter search with title/content/tag, and more."
     },
     {
+      name: "Hqzen",
+      pictures: [
+        {
+          img: require("./src/assets/portfolio/hqzen/hqzen1.png"),
+        },
+        {
+          img: require("./src/assets/portfolio/hqzen/hqzen2.png")
+        },
+        {
+          img: require("./src/assets/portfolio/hqzen/hqzen3.png")
+        },
+        {
+          img: require("./src/assets/portfolio/hqzen/hqzen4.png")
+        },
+      ],
+      technologies: ["Vue Js 2/3", "Sass/Css", "Poython", "Django/Api Silio"],
+      category: "Web App",
+      date: "Aug, 2020 - Jun 2023",
+      github:
+        "",
+      visit: "https://hqzen.com/",
+      description:
+      "hqzen is Productivity Engine: An entire ecosystem of tools for engaged custom solutions for the individual or scaling teams."
+    },
+    {
       name: "Scholarship App",
       pictures: [
         {
@@ -406,6 +431,26 @@ let info = {
       visit: "https://share-stories.herokuapp.com/stories",
       description:
         " Share Story Blog App is a web app for sharing stories and ideas. It has features: login, register, share stories, share ideas, and more."
+    },
+    {
+      name: "Applybpo",
+      pictures: [
+        
+        {
+          img: require("./src/assets/portfolio/applybpo/applybpo.png"),
+        },
+        {
+          img: require("./src/assets/portfolio/applybpo/applybpo2.png")
+        },
+      ],
+      technologies: ["Vue Js 2/3", "Sass/Css", "Poython", "Django/Api Silio"],
+      category: "Web App",
+      date: "Aug, 2020 - Jun 2022",
+      github:
+        "",
+      visit: "https://applybpo.com/",
+      description:
+      "Applybpo is an app that manages employees employment information like payrols, leaves ,displinary actions etc."
     },
   ],
 };
