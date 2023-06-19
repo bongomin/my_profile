@@ -68,7 +68,25 @@ let info = {
       position: "Full Stack Software Engineer | Dev Lead",
       description:
         "As the Full Stack Software Engineer | Dev Lead, I am responsible for overseeing the collaboration and tasks performed by team members. I ensure timely delivery of projects by coordinating with lead managers and providing guidance to the development team. I provide technical expertise in Vue.js for the client-side and Python Django for the server-side",
-      skills: ["JavaSript","VueJS","Python","Django",]
+      skills: ["JavaSript","VueJS","Python","Django", "Postgres"]
+    },
+    {
+      name: "Esteemed Inc",
+      place: "5430 66th Ave Olympia, WA 98502",
+      date: "Aug-2022 – Feb-2023",
+      position: "Full Stack Software Engineer",
+      description:
+      "As a Full Stack Software Engineer, I developed clean and modular web-based SaaS applications using the Quasar framework. I debugged and refactored existing applications, responded to critical support issues, and collaborated with the Software Architect to ensure coding standards and architectural practices. I also assisted Senior Developers, creating highly interactive web applications using JavaScript, HTML, CSS, JSON, Quasar, Vue3, and integrating Nest Js Restful APIs for optimal performance on multiple platforms.",
+      skills: ["JavaSript","VueJS 3","Nest Js ","Quasar", "Node Js", "Postgres"]
+    },
+    {
+      name: "Buq Limited (buq.com)",
+      place: "Fox Odge, NG76LH United Kingdom",
+      date: "Nov-2021 – Jan-2022",
+      position: "Full stack software engineer (Contract)",
+      description:
+      "Improve Customer satisfaction and lifetime value by developing an ecommerce auto-pilot software using Vuejs2/3 for frontend and Node Js for backend implementations",
+      skills: ["JavaSript","VueJS 2/3", "Node Js", "Sql"]
     },
     {
       name: "Learning Dollars Talent",
