@@ -13,7 +13,7 @@ let info = {
   links: {
     linkedin: "https://www.linkedin.com/in/daniel-bongomin/",
     github: "https://github.com/bongomin",
-    resume: "https://drive.google.com/file/d/167a5L6pqC5P9nIZ7DXY6wnPBWTDVIgcz/view?usp=sharing",
+    resume:"https://drive.google.com/file/d/1AJ7ThlcHMy-UDkKYHjZ1Mr8Gn5MalYB7/view?usp=sharing"
   },
   education: [
     {
