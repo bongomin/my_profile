@@ -367,7 +367,7 @@ let info = {
           img: require("./src/assets/portfolio/hqzen/hqzen4.png")
         },
       ],
-      technologies: ["Vue Js 2/3", "Sass/Css", "Poython", "Django/Api Silio"],
+      technologies: ["Vue Js 2/3", "Sass/Css", "Python", "Django/Api Silio"],
       category: "Web App",
       date: "Aug, 2020 - Jun 2023",
       github:
