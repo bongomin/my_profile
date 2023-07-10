@@ -138,13 +138,13 @@ let info = {
       icon: "fas fa-laptop-code"
     },
     {
-      title: "Testing and Quality Assurance",
+      title: "Testing",
       info: ["TDD", "Jest", "Jasmine"],
       icon: "fas fa-check-circle"
     },
     {
       title: "Security",
-      info: ["Cross-Site Scripting (XSS)", "Secure coding practices", "Encryption and hashing algorithms"],
+      info: ["Cross-Site Scripting (XSS)", "Secure coding practices"],
       icon: "fas fa-shield-alt"
     }
   ],
