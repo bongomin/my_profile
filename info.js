@@ -137,6 +137,16 @@ let info = {
       info: ["Vue", "React", "Node"],
       icon: "fas fa-laptop-code"
     },
+    {
+      title: "Testing and Quality Assurance",
+      info: ["TDD", "Jest", "Jasmine"],
+      icon: "fas fa-check-circle"
+    },
+    {
+      title: "Security",
+      info: ["Cross-Site Scripting (XSS)", "Secure coding practices", "Encryption and hashing algorithms"],
+      icon: "fas fa-shield-alt"
+    }
   ],
   portfolio_design: [
     {
