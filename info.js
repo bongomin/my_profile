@@ -9,11 +9,11 @@ let info = {
     }
   },
   description:
-  "Full-stack Software Engineer experienced in client and server-side development. Providing clean code and a keen eye for detail in design. Specializing in JavaScript (Vue.js, React.js), Python Django, Nest.js, Node.js, and cross-platform mobile development using Quasar. Proficient in creating seamless user experiences with Vue.js, React.js, and Quasar, while ensuring clean and optimized server solutions with Python Django, Nest.js, and Node.js. Strong background in database management, RESTful APIs, and scalable server architectures. Constantly learning and adapting to the evolving IT industry. Let's collaborate to create cutting-edge solutions tailored to your needs.",
+    "Full-stack Software Engineer experienced in client and server-side development. Providing clean code and a keen eye for detail in design. Specializing in JavaScript (Vue.js, React.js), Python Django, Nest.js, Node.js, and cross-platform mobile development using Quasar. Proficient in creating seamless user experiences with Vue.js, React.js, and Quasar, while ensuring clean and optimized server solutions with Python Django, Nest.js, and Node.js. Strong background in database management, RESTful APIs, and scalable server architectures. Constantly learning and adapting to the evolving IT industry. Let's collaborate to create cutting-edge solutions tailored to your needs.",
   links: {
     linkedin: "https://www.linkedin.com/in/daniel-bongomin/",
     github: "https://github.com/bongomin",
-    resume:"https://drive.google.com/file/d/1AJ7ThlcHMy-UDkKYHjZ1Mr8Gn5MalYB7/view?usp=sharing"
+    resume: "https://drive.google.com/file/d/1nxkS2pu4THqhk6RPHByH-qAooKA-1Yjx/view?usp=sharing"
   },
   education: [
     {
@@ -58,7 +58,6 @@ let info = {
         "O-Level",
       ]
     },
-    
   ],
   experience: [
     {
@@ -68,39 +67,39 @@ let info = {
       position: "Full Stack Software Engineer | Dev Lead",
       description:
         "As the Full Stack Software Engineer | Dev Lead, I am responsible for overseeing the collaboration and tasks performed by team members. I ensure timely delivery of projects by coordinating with lead managers and providing guidance to the development team. I provide technical expertise in Vue.js for the client-side and Python Django for the server-side",
-      skills: ["JavaSript","VueJS","Python","Django", "Postgres"]
-    },
-    {
-      name: "Esteemed Inc",
-      place: "5430 66th Ave Olympia, WA 98502",
-      date: "Aug-2022 – Feb-2023",
-      position: "Full Stack Software Engineer",
-      description:
-      "As a Full Stack Software Engineer, I developed clean and modular web-based SaaS applications using the Quasar framework. I debugged and refactored existing applications, responded to critical support issues, and collaborated with the Software Architect to ensure coding standards and architectural practices. I also assisted Senior Developers, creating highly interactive web applications using JavaScript, HTML, CSS, JSON, Quasar, Vue3, and integrating Nest Js Restful APIs for optimal performance on multiple platforms.",
-      skills: ["JavaSript","VueJS 3","Nest Js ","Quasar", "Node Js", "Postgres"]
-    },
-    {
-      name: "Buq Limited (buq.com)",
-      place: "Fox Odge, NG76LH United Kingdom",
-      date: "Nov-2021 – Jan-2022",
-      position: "Full stack software engineer (Contract)",
-      description:
-      "Improve Customer satisfaction and lifetime value by developing an ecommerce auto-pilot software using Vuejs2/3 for frontend and Node Js for backend implementations",
-      skills: ["JavaSript","VueJS 2/3", "Node Js", "Sql"]
+      skills: ["JavaSript", "VueJS", "Python", "Django", "Postgres"]
     },
     {
       name: "Learning Dollars Talent",
       place: "Santa Clara, California, United States",
-      date: "Feb 2020 - present",
+      date: "Feb 2020 - April 2023",
       position: "Freelance Web Developer",
       description:
         "Experienced Freelance Web Developer skilled in JavaScript, ReactJS, Vue.js, Python, Django, and AWS. Strong problem-solving abilities and a track record of delivering high-quality projects on time",
-      skills: ["Javascript", "Typescript", "ReactJS", "React-Redux", "webpack", "NLP",'Vue Js','Python','Django', 'NodeJS','AWS','expressJs']
+      skills: ["Javascript", "Typescript", "ReactJS", "React-Redux", "webpack", "NLP", 'Vue Js', 'Python', 'Django', 'NodeJS', 'AWS', 'expressJs']
+    },
+    {
+      name: "Esteemed Inc",
+      place: "5430 66th Ave Olympia, WA 98502",
+      date: "Jan-2022 – July-2022",
+      position: "Full Stack Software Engineer",
+      description:
+        "As a Full Stack Software Engineer, I developed clean and modular web-based SaaS applications using the Quasar framework. I debugged and refactored existing applications, responded to critical support issues, and collaborated with the Software Architect to ensure coding standards and architectural practices. I also assisted Senior Developers, creating highly interactive web applications using JavaScript, HTML, CSS, JSON, Quasar, Vue3, and integrating Nest Js Restful APIs for optimal performance on multiple platforms.",
+      skills: ["JavaSript", "VueJS 3", "Nest Js ", "Quasar", "Node Js", "Postgres"]
+    },
+    {
+      name: "Buq Limited (buq.com)",
+      place: "Fox Odge, NG76LH United Kingdom",
+      date: "Sep-2019 – Nov-2019",
+      position: "Full stack software engineer (Contract)",
+      description:
+        "Improve Customer satisfaction and lifetime value by developing an ecommerce auto-pilot software using Vuejs2/3 for frontend and Node Js for backend implementations",
+      skills: ["JavaSript", "VueJS 2/3", "Node Js", "Sql"]
     },
     {
       name: "ABC CAPITAL BANK LTD",
       place: "Kampala, Uganda",
-      date: "Aug 2018 - May 2021",
+      date: "Mar-2018 - June-2019",
       position: "IT Support Engineer, System Administrator",
       description: "A professional systems administrator with strong experience managing server infrastructures and data-center operations across Unix, Linux, Windows, and Mac OS X platforms. Effectively plan, install, configure and optimize IT infrastructures to achieve high availability and performance",
       skills: ["Windows Servers", "Oracle", "System Administration skills", "User Support"]
@@ -108,10 +107,10 @@ let info = {
     {
       name: "Refactory",
       place: "kampala, Uganda",
-      date: "Mar 2019 - Jul 2019 ",
+      date: "Mar-2017 - May-2017 ",
       position: "Software Engineer",
       description: "Developing Front and Back End web-based solutions for small business clients atleading Companies within Uganda",
-      skills: ["ReactJs", "VueJS", "NodeJS", "ExpressJS", "MongoDB", "Python", "Django", "AWS", "Git", "Github", "Javascript", "Typescript", "React-Redux", "webpack", "NLP", 'Vue Js','Python','Django', 'NodeJS','AWS','expressJs']
+      skills: ["ReactJs", "VueJS", "NodeJS", "ExpressJS", "MongoDB", "Python", "Django", "AWS", "Git", "Github", "Javascript", "Typescript", "React-Redux", "webpack", "NLP", 'Vue Js', 'Python', 'Django', 'NodeJS', 'AWS', 'expressJs']
     },
   ],
   skills: [
@@ -123,13 +122,13 @@ let info = {
     {
       title: "Language",
       info: [
-        "Python","Javascript","TypeScript"],
+        "Python", "Javascript", "TypeScript"],
       icon: "fa fa-code"
     },
     {
       title: "Front-end",
       info: [
-        "HTML5","CSS3","Bootstrap3","Es6"],
+        "HTML5", "CSS3", "Bootstrap3", "Es6"],
       icon: "fa fa-cubes"
     },
     {
@@ -359,7 +358,7 @@ let info = {
         "https://github.com/bongomin/dev-hub-2020",
       visit: "https://dannydevchat.vercel.app/",
       description:
-      " Social Media called DannyDev App with features: Live Chat, upload images, tags, filter search with title/content/tag, and more."
+        " Social Media called DannyDev App with features: Live Chat, upload images, tags, filter search with title/content/tag, and more."
     },
     {
       name: "Hqzen",
@@ -384,7 +383,7 @@ let info = {
         "",
       visit: "https://hqzen.com/",
       description:
-      "hqzen is Productivity Engine: An entire ecosystem of tools for engaged custom solutions for the individual or scaling teams."
+        "hqzen is Productivity Engine: An entire ecosystem of tools for engaged custom solutions for the individual or scaling teams."
     },
     {
       name: "Scholarship App",
@@ -393,8 +392,8 @@ let info = {
           img: require("./src/assets/portfolio/scholarship app/scholar1.png"),
         },
         {
-          img: require("./src/assets/portfolio/scholarship app/scholar2.png"),   
-       },
+          img: require("./src/assets/portfolio/scholarship app/scholar2.png"),
+        },
         {
           img: require("./src/assets/portfolio/scholarship app/scholar3.png")
         },
@@ -412,13 +411,13 @@ let info = {
         }
 
       ],
-      technologies: ["HTML", "CSS","JavaSript","JQuery", "NodeJS",'ExpressJs', "MongoDB"],
+      technologies: ["HTML", "CSS", "JavaSript", "JQuery", "NodeJS", 'ExpressJs', "MongoDB"],
       category: "Web App",
       date: "Apr, 2019 - May, 2019",
       github: "https://github.com/bongomin/scholar-track",
       visit: "https://scholar-tracker.herokuapp.com/student",
       description:
-      "Scholarship App is an online Scholarship Tracking app for NGO's ,Primary,Secondary Schools and university students. It has features: login, register, Reports, Parents Info,'Students Info' and more."
+        "Scholarship App is an online Scholarship Tracking app for NGO's ,Primary,Secondary Schools and university students. It has features: login, register, Reports, Parents Info,'Students Info' and more."
     },
     {
       name: "Share Story Blog App",
@@ -445,7 +444,7 @@ let info = {
     {
       name: "Applybpo",
       pictures: [
-        
+
         {
           img: require("./src/assets/portfolio/applybpo/applybpo.png"),
         },
@@ -460,7 +459,7 @@ let info = {
         "",
       visit: "https://applybpo.com/",
       description:
-      "Applybpo is an app that manages employees employment information like payrols, leaves ,displinary actions etc."
+        "Applybpo is an app that manages employees employment information like payrols, leaves ,displinary actions etc."
     },
     {
       name: "Portfolio",
@@ -479,7 +478,7 @@ let info = {
         "https://github.com/bongomin/my_profile",
       visit: "https://my-profile-murex-five.vercel.app/",
       description:
-      "I developed my Portfolio using Vue Js 3  and used EmailJS as a service that allows sending emails directly from a client-side JavaScript code to implement the contact form."
+        "I developed my Portfolio using Vue Js 3  and used EmailJS as a service that allows sending emails directly from a client-side JavaScript code to implement the contact form."
     },
   ],
 };
