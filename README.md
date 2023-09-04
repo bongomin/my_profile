@@ -1,5 +1,7 @@
 # Bongomin Daniel's portfolio
 - - Builded with VueJs framework ✨
+  - 
+![Screenshot from 2023-09-04 09-10-32](https://github.com/bongomin/my_profile/assets/39218838/35901390-1efb-4bd2-a197-a855098ba1d9)
 
 ## Features
 - Builded with VueJs framework ✨
